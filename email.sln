@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email.Infrastructure", "Ema
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email.Tests", "Email.Tests\Email.Tests.csproj", "{23F76176-805E-4766-B1EF-59BDB9EF7ED1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email.Application", "Email.Application\Email.Application.csproj", "{F9B32979-8970-4709-9ED9-6E70E13F43DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{23F76176-805E-4766-B1EF-59BDB9EF7ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23F76176-805E-4766-B1EF-59BDB9EF7ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23F76176-805E-4766-B1EF-59BDB9EF7ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B32979-8970-4709-9ED9-6E70E13F43DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B32979-8970-4709-9ED9-6E70E13F43DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B32979-8970-4709-9ED9-6E70E13F43DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B32979-8970-4709-9ED9-6E70E13F43DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
